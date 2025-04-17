@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HunterCartier1337
-- 👀 I’m interested in learning scripting and offensive&defensive security.
+- 👀 I’m interested in learning Linux system administration, scripting, and offensive&defensive security.
 - 🌱 I’m currently learning C, bash, python, and powershell.
 - 💞️ I’m looking to collaborate on anything that will expand my learning.
 <!---
